@@ -1,10 +1,10 @@
-# Hi, I'm Divya Nama 👋
+# Hi, I'm Nama Divya 👋
 
 ### Electronics & Communication Engineering Student | Embedded Systems | IoT | Software
 
 I'm an **Electronics and Communication Engineering undergraduate** passionate about building practical solutions at the intersection of **hardware and software**.
 
-I enjoy working on ** C, Python,Embedded Systems, Digital Design,  IoT, Communication Systems, and Software Development**, while continuously improving my programming and problem-solving skills.
+I enjoy working on  C, Python,Embedded Systems, Digital Design,  IoT, Communication Systems, and Software Development , while continuously improving my programming and problem-solving skills.
 
 ---
 
