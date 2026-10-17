@@ -4,7 +4,7 @@
 
 I'm an **Electronics and Communication Engineering undergraduate** passionate about building practical solutions at the intersection of **hardware and software**.
 
-I enjoy working on **Embedded Systems, Digital Design, VLSI, IoT, Communication Systems, and Software Development**, while continuously improving my programming and problem-solving skills.
+I enjoy working on ** C, Python,Embedded Systems, Digital Design,  IoT, Communication Systems, and Software Development**, while continuously improving my programming and problem-solving skills.
 
 ---
 
